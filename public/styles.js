@@ -58,7 +58,7 @@ ___CSS_LOADER_EXPORT___.push([module.i, "@charset \"UTF-8\";\n/* You can add glo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\work\HackerU\assigment\HackerU\client\src\styles.scss */"+EN/");
+module.exports = __webpack_require__(/*! D:\work\HackerU\HackerU-assignment\HackerU-client\src\styles.scss */"+EN/");
 
 
 /***/ }),

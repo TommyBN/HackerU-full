@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\work\HackerU\assigment\HackerU\client\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\work\HackerU\HackerU-assignment\HackerU-client\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
